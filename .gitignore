@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+
+# Rust build output
+target/
+
+# Stellar CLI local config
+.stellar/
