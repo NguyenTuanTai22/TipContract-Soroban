@@ -81,7 +81,7 @@ This project is licensed under the MIT License.
 - **Blockchain:** Stellar (Soroban)
 - **Network:** Testnet
 - **Contract ID:** CAN7NICCSRWLI3IVMNIER6YATU6U4EMRQK374XOODXQNTHP4TVVGC2HD
-![screenshot](https://ibb.co/jvkvw2jD)
+![screenshot](image.png)
 
 ---
 
